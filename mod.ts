@@ -33,6 +33,6 @@ class GirlFriend{
               introduce_yourself() {
                 console.log("Hi, I'm " + this.name + " and I'm " + this.age + " years old.");
               }
-            
+             
     }
     export default GirlFriend;
